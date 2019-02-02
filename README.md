@@ -1,4 +1,4 @@
-# DNZ-ZONE
+# DNS-ZONE
 Automate UNIX and Linux task with shell scripts to test "DNS ZONE TRANSFER".
 
 #### Usage:
