@@ -1,5 +1,5 @@
 # DNZ-ZONE
-Automate to test DNS zone transfer.
+Automate UNIX and Linux task with shell scripts to test "DNS ZONE TRANSFER".
 
 #### Usage:
 ```
